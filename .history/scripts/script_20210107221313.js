@@ -1,4 +1,4 @@
-"user strict";
+
 
 const numberOfFilms = +prompt (' Сколько фильмов вы уже просмотрели',"");
 
@@ -19,4 +19,4 @@ const a = prompt('Oдин из последних просмотренных ф�
 personalMovieDB.movies[a] = b;      
 personalMovieDB.movies[c] = d;
 
-console.log(personalMovieDB);
+alert(personalMovieDB);

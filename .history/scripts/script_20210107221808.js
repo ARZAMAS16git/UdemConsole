@@ -1,4 +1,4 @@
-"user strict";
+"user stri"
 
 const numberOfFilms = +prompt (' Сколько фильмов вы уже просмотрели',"");
 
